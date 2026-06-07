@@ -51,12 +51,12 @@ Deployment: Netlify (zero-config deployment with serverless function support)**
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [ yes] My project is public on GitHub
+- [yes ] My repository has a proper README.md
+- [yes ] I have added setup/installation instructions
+- [ yes] I have added screenshots/demo where possible
+- [yes ] I have added a license file
+- [ yes] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -64,23 +64,23 @@ Deployment: Netlify (zero-config deployment with serverless function support)**
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [ yes ] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [ yes ] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+- [ yes] I have followed Memori Labs on X  
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+- [ yes ] I have checked Memori Labs social links  
   https://linktr.ee/memorilabs
 
 ---
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
-- [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+- [yes ] I have generated my ID card from https://oshack.xyz
+- [ yes] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
