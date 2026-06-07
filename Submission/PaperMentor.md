@@ -22,7 +22,9 @@
 <!-- Write your project/idea title -->
 
 **Project Description: PaperMentor is an AI-powered study tool that analyzes your past exam papers and builds a personalized preparation plan. Upload your question papers, and the app extracts key topics, scores their importance, cross-references your syllabus, and generates a smart study plan along with practice questions — all in one place.
+
 Features
+
 Paper Analysis: Parses uploaded exam papers to extract questions and topics automatically, saving hours of manual review.
 Topic Scoring: Ranks topics by how frequently and heavily they appear across papers, so you know exactly where to focus your time.
 Syllabus Cross-referencing: Maps extracted topics against your syllabus to identify gaps and high-priority areas.
