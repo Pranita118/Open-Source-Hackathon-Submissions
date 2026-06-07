@@ -26,17 +26,26 @@
 Features
 
 Paper Analysis: Parses uploaded exam papers to extract questions and topics automatically, saving hours of manual review.
+
 Topic Scoring: Ranks topics by how frequently and heavily they appear across papers, so you know exactly where to focus your time.
+
 Syllabus Cross-referencing: Maps extracted topics against your syllabus to identify gaps and high-priority areas.
+
 Study Plan Generation: Builds a structured, personalized study plan based on topic importance and your available time.
+
 Practice Questions: Generates targeted practice questions for each topic to reinforce learning and test readiness.
+
 AI Assistant: A built-in chat assistant answers subject-specific questions and explains concepts on demand.**  
 <!-- Explain what your project does, what problem it solves, and why it matters -->
 
 **Tech Stack Used:
+
 Frontend: Vanilla JavaScript (no heavy frameworks)
+
 Backend: Python (simple local development server with built-in API proxy)
+
 AI Inference: Groq API (ultra-fast LLM inference for real-time paper analysis and question generation)
+
 Deployment: Netlify (zero-config deployment with serverless function support)**  
 <!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
 
